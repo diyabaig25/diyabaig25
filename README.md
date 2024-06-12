@@ -3,7 +3,6 @@
 <h3 align="center">I am passionate about AI, Machine Learning and Blockchain Development</h3>
 <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/eeae6cdd322d30ea58ef009393cb3e5e.gif"
 
-
 - 🔭 I’m currently persuing **Master's in Financial Technology**
 
 - 🌱 I’m currently learning **Web3 development**
