@@ -4,11 +4,8 @@
 <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/eeae6cdd322d30ea58ef009393cb3e5e.gif"
 
 - 🔭 I’m currently persuing **Master's in Financial Technology**
-
 - 🌱 I’m currently learning **Web3 development**
-
 - 📫 How to reach me **diya.baig25@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
