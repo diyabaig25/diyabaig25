@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/diyabaig25" target="blank"><img src="https://img.shields.io/twitter/follow/diyabaig25?logo=twitter&style=for-the-badge" alt="diyabaig25" /></a> </p>
 
-- 🔭 I’m currently working on **Web3 web application the development of a web3 web application on the Ethereum blockchain.**
+- 🔭 I’m currently working on **development of a web3 web application on the Ethereum blockchain.**
 
 - 🌱 I’m currently learning **blockchain development**
 
