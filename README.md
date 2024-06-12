@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif)]
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V2YzhsYzN1OHRjMDk4dHB1bXF3ZnA2ZndsNGM5MTlmMTdqcDEzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp)](https://diyabaig25.io)
 <h1 align="center">Hi 👋, I'm Diya</h1>
 <h3 align="center">I am passionate about AI, Machine Learning and Blockchain Development</h3>
 <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/eeae6cdd322d30ea58ef009393cb3e5e.gif"
