@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Diya</h1>
 [![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVwdjk5cWJ1MXdid2tkcWE0OXU3MWtpODM1a3dodThybjFkMnljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.webp)](https://diyabaig25.io)
+<h1 align="center">Hi 👋, I'm Diya</h1>
 <h3 align="center">I am passionate about AI, Machine Learning and Blockchain Development</h3>
 <image align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/eeae6cdd322d30ea58ef009393cb3e5e.gif"
+
 
 - 🔭 I’m currently persuing **Master's in Financial Technology**
   
