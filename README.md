@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently persuing **Master's in Financial Technology**
 - 🌱 I’m currently learning **Web3 development**
-- 📫 How to reach me **diya.baig25@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
